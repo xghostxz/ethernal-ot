@@ -1,4 +1,4 @@
-![EthernalBanner](https://media.discordapp.net/attachments/1320624550534185016/1323761467778007133/Picsart_24-12-31_16-14-28-837.j pg?ex=6775b070&is=67745ef0&hm=2fed8525fd9da879494d7bc0efe3cd960249df76ce446bc2330922f9ecd16919&=&format=webp&width=1177&height=662)
+![EthernalBanner](https://media.discordapp.net/attachments/1320624550534185016/1323761467778007133/Picsart_24-12-31_16-14-28-837.jpg?ex=6775b070&is=67745ef0&hm=2fed8525fd9da879494d7bc0efe3cd960249df76ce446bc2330922f9ecd16919&=&format=webp&width=1177&height=662)
 
 # 'EXPLANATION GUIDE ON HOW TO PLAY IN ETHERNAL OT'
 # 📚 Table of Contents
@@ -36,7 +36,7 @@ Once Radmin is installed in step n°2 we will configure it as follows manner.
 > #### RADMIN VPN INFO
 > - Network Name: **EthernalOT**
 > - Password: **etherot**
-![src rvpn](https://media.discordapp.net/attachments/1320624550534185016/ 1323756358075416678/image.png?ex=6775abad&is=67745a2d&hm=7a0029ffc81f4301407e3b6abff203a9e011673bff4997ed013abe92033b2008&=&format=webp&quality=lossless&width=1440&height=361)
+![src rvpn](https://media.discordapp.net/attachments/1320624550534185016/1323756358075416678/image.png?ex=6775abad&is=67745a2d&hm=7a0029ffc81f4301407e3b6abff203a9e011673bff4997ed013abe92033b2008&=&format=webp&quality=lossless&width=1440&height=361)
 
 In the end, EthernalOT should appear as shown in the last image.
 #### ATTENTION: TO PLAY ON THE OTSERVER IT IS MANDATORY TO HAVE THE VPN ACTIVATED.
