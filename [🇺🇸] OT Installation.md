@@ -7,7 +7,7 @@
 2. [Installing Radmin VPN](#installation)
 3. [Configuring Radmin VPN](#configuration)
 4. [Installing Client](#client)
-5. [Creating Account](#client) #account)
+5. [Creating Account](#client) 
 6. [Discord Server](#discord)
 
 ---
