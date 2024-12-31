@@ -62,7 +62,7 @@ Ya instalado el archivo **"EthernalOT V12.64.rar"** la extraen y la colocan dond
 ## 5. `CREACIÓN DE LA CUENTA` <a name="cuenta"></a>  
 
 En este punto no creo que sea tan complicado, es como abrir una cuenta en el Tibia RL.
-
+> LINK: [EthernalOT - Create Account](http://26.68.219.161/?account/create)
 ![IMG](https://media.discordapp.net/attachments/1320624550534185016/1323771217471082567/image.png?ex=6775b984&is=67746804&hm=1b1e66fa875878640c6fa1c56817dfb33c22bd7b21fde751041549c2b3a382c8&=&format=webp&quality=lossless&width=608&height=437)
 
 ---
