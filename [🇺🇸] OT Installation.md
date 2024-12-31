@@ -72,7 +72,8 @@ Being connected to the Ethernal OT Discord is essential, since the respective ma
 
 If you are not joined, we invite you to join.
 
-[![Button][https://freepngimg.com/save/14160-join-now-png-clipart/370x226](https://discord.gg/PM8vk9BCk7)
+[![Botón](https://discord.com/channels/1320546933714190387/1320616768728862750/1323776402205573120)](https://discord.gg/PM8vk9BCk7)
+
 
 ---
 # `CREDITS TO THE PROJECT MANAGER`
