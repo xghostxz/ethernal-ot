@@ -75,3 +75,18 @@ Si no estas unido, te invitamos a estarlo.
 
 [![Botón](https://www.xportsxperts.com/wp-content/uploads/2021/06/unete.png)](https://discord.gg/PM8vk9BCk7)
 
+
+
+---
+# `CREDITOS AL ENCARGADO DE PROYECTO`
+
+¿Quien es el responsable del Proyecto?
+> **xGHOST Dev**
+```
+Mensaje: Espero que la pasen bien en el OTServer, hagan amigos y se peguen unos buenos PK con los demas jugadores.
+
+Me gustaria si me apoyaran en mis redes sociales.
+
+Un gran abrazo 
+```
+> https://linktr.ee/ghost.gg.off
