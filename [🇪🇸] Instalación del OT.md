@@ -48,7 +48,7 @@ Al final tendria que salir EthernalOT como se muestra en la ultima imagén.
 
 Para instalar el Cliente Oficial de EthernalOT, puedes descargarlo mediante el enlace de Mediafire proporcionado por el Dev en cuestión. (xGHOST)
 
-> Enlace: [Cliente EthernalOT v12.64](https://www.mediafire.com/file/d8cw7s67v8268fn/EthernalOT_-_V12.64.rar/file)
+> Enlace: [Cliente EthernalOT](www.mediafire.com/file/e0n5radysu8tqk1/OT+Cliente.rar/file)
 
 #### OJO: Debido a la versión del Cliente, este no cuenta con los sonidos añadidos en la versión: **13.00.12529**
 #### El Cliente cuenta con los mapas actualizados según [Tibiamaps.io](https://tibiamaps.io/downloads)
