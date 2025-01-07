@@ -50,12 +50,13 @@ Para instalar el Cliente Oficial de EthernalOT, puedes descargarlo mediante el e
 
 > Enlace: [Cliente EthernalOT](www.mediafire.com/file/e0n5radysu8tqk1/OT+Cliente.rar/file)
 
-#### OJO: Debido a la versión del Cliente, este no cuenta con los sonidos añadidos en la versión: **13.00.12529**
 #### El Cliente cuenta con los mapas actualizados según [Tibiamaps.io](https://tibiamaps.io/downloads)
 
 Ya instalado el archivo **"Cliente OT.rar"** la extraen y la colocan donde mas les favorezca.
 
 ![Visualización](https://cdn.discordapp.com/attachments/1320624550534185016/1323770370221801553/image.png?ex=6775b8ba&is=6774673a&hm=d82ededf0dd159ea95fcf476669ecdf3f14ca1fa8242a17f61751f189fdff313&)
+
+Luego Abrir la carpeta Bin > Ejecutar **client.exe**
 
 ---
 
