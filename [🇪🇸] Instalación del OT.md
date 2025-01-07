@@ -40,7 +40,7 @@ Ya instalado el Radmin en el paso n°2 lo configuraremos de la siguiente manera.
 ![src rvpn](https://media.discordapp.net/attachments/1320624550534185016/1323756358075416678/image.png?ex=6775abad&is=67745a2d&hm=7a0029ffc81f4301407e3b6abff203a9e011673bff4997ed013abe92033b2008&=&format=webp&quality=lossless&width=1440&height=361)
 
 Al final tendria que salir EthernalOT como se muestra en la ultima imagén.
-#### ATENCIÓN: PARA JUGAR EN EL OTSERVER ES OBLIGATORIO TENER EL VPN ACTIVADO.
+#### ATENCIÓN: PARA JUGAR EN EL OTSERVER Y ENTRAR A LA PAGINA ES OBLIGATORIO TENER EL VPN ACTIVADO.
 
 ---
 
